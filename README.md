@@ -13,7 +13,7 @@ Follow these steps to get started with the Grok3 API client.
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/mem0ai/grok3-api.git
+git clone git@github.com:ManojINaik/grokAPI.git
 ```
 
 ### 2. Install the Package
@@ -269,3 +269,7 @@ By using this client, you acknowledge that:
 1. You are responsible for your use of the API
 2. You understand the potential risks involved
 3. You will not use this client for any malicious purposes or in ways that violate Grok's terms of service
+
+
+
+Inspired and improvized from https://github.com/mem0ai/grok3-api
