@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grokapi"
+version = "0.1.0"
+authors = [
+  { name="Mem0 Team", email="taranjeet@mem0.ai" },
+]
+description = "A Python client for the Grok API"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests>=2.28.0",
+]
+license = {file = "LICENSE"}
+
+[project.urls]
+"Homepage" = "https://github.com/mem0ai/grok3-api"
+"Bug Tracker" = "https://github.com/mem0ai/grok3-api/issues"
